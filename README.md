@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-                                                                               # Hello Visitors 
-                                                                #### Building quality websites and applications
+# Hello Visitors 
+### Building quality websites and applications
 
