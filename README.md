@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
- #### 🔭 I’m currently working on Laravel / CodeIgniter Web App
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 # Hello Visitors :ribbon:
 #### Building quality websites and applications
+#### 🔭 I’m currently working on Laravel / CodeIgniter Web App
