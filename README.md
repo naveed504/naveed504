@@ -46,19 +46,18 @@ Here are some ideas to get you started:
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=naveed504&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Naveed's GitHub Stats" />
 </a>
 
+#### - 📫 Skills
 
-
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=PHP&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=Laravel&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=CodeIgniter&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=Javascript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=Ajax&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Jquery&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=Bootstrap&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=MySql&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-CodeIgniter-informational?style=flat&logo=CodeIgniter&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Ajax-informational?style=flat&logo=Ajax&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Jquery-informational?style=flat&logo=Jquery&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-BootStrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySql&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 
 
 
