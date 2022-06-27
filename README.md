@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 #### Building quality websites and applications
 #### 🔭 I’m currently working on Laravel || CodeIgniter || Vue Js || Javascript || Ajax & Jquery || BootStrap & CSS
 #### 📫 How to reach me:
+![](https://komarev.com/ghpvc/?username=naveed504&color=green&style=flat-square&label=PROFILE+VIEWS)
