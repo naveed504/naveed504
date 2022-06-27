@@ -16,13 +16,12 @@ Here are some ideas to get you started:
 -->
 
 #### HI I'M M Naveed Akram :ribbon:
-
-#### Building quality websites and applications
-#### 🔭 I’m currently working on Laravel || CodeIgniter || Vue Js || Javascript || Ajax & Jquery || BootStrap & CSS
 #### 📫 How to reach me:
-
 ![](https://komarev.com/ghpvc/?username=naveed504&color=green&style=flat-square&label=PROFILE+VIEWS)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mnaveed505/)
+
+Hi there !
+I'm M Naveed senior full-stack software engineer, creative coder and self-proclaimed designer who specializes in front-end and back-end development
 
 
 #### Pinned Repositories 
@@ -43,7 +42,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/naveed504/React-Laravel-Crud-App">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=naveed504&repo=React-Laravel-Crud-App&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<br>
+
 <a href="https://github.com/naveed504/laravel-Ecommerce">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=naveed504&repo=laravel-Ecommerce&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
