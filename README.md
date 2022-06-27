@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+![M Naveed Akram's GitHub Banner](./assets/GitHubHeader.png)]
 # Hello Visitors :ribbon:
 #### Building quality websites and applications
 #### 🔭 I’m currently working on Laravel || CodeIgniter || Vue Js || Javascript || Ajax & Jquery || BootStrap & CSS
