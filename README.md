@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 # Hello Visitors :ribbon:
 #### Building quality websites and applications
-#### 🔭 I’m currently working on Laravel / CodeIgniter Web App
+#### 🔭 I’m currently working on Laravel || CodeIgniter || Vue Js || Javascript || Ajax & Jquery || BootStrap & CSS
 #### 📫 How to reach me:
