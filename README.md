@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=naveed504&color=green&style=flat-square&label=PROFILE+VIEWS)
 
-<!-- Pinned Repositories -- >
+#### Pinned Repositories 
 
 <a href="https://github.com/naveed504/generate-dynamic-laravel-excel-columns">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=naveed504&repo=generate-dynamic-laravel-excel-columns&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
