@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### HI I'M # M Naveed Akram :ribbon:
+### HI I'M :ribbon:
+# M Naveed Akram :ribbon:
+
 #### Building quality websites and applications
 #### 🔭 I’m currently working on Laravel || CodeIgniter || Vue Js || Javascript || Ajax & Jquery || BootStrap & CSS
 #### 📫 How to reach me:
