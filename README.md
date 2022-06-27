@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=naveed504&color=green&style=flat-square&label=PROFILE+VIEWS)
 
 #### Pinned Repositories 
-
+<!----->
+<hr/> 
+<!----->
 <a href="https://github.com/naveed504/generate-dynamic-laravel-excel-columns">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=naveed504&repo=generate-dynamic-laravel-excel-columns&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -33,11 +35,14 @@ Here are some ideas to get you started:
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=naveed504&repo=laravel-multiauth&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-
+<br>
+<br>
 
 
 #### GitHub Stats 
-
+<!----->
+<hr/> 
+<!----->
 <a href="https://github.com/naveed504">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveed504&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
