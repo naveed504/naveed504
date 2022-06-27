@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 #### Building quality websites and applications
 #### 🔭 I’m currently working on Laravel || CodeIgniter || Vue Js || Javascript || Ajax & Jquery || BootStrap & CSS
 #### 📫 How to reach me:
+<!--
 ![](https://komarev.com/ghpvc/?username=naveed504&color=green&style=flat-square&label=PROFILE+VIEWS)
 
 <!-- Pinned Repositories -- >
@@ -55,7 +56,7 @@ Here are some ideas to get you started:
 [](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=MySql&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 
-
+-->
 
 
 
