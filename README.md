@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### Building quality websites and applications
 #### 🔭 I’m currently working on Laravel || CodeIgniter || Vue Js || Javascript || Ajax & Jquery || BootStrap & CSS
 #### 📫 How to reach me:
-<!--
+
 ![](https://komarev.com/ghpvc/?username=naveed504&color=green&style=flat-square&label=PROFILE+VIEWS)
 
 <!-- Pinned Repositories -- >
@@ -43,20 +43,6 @@ Here are some ideas to get you started:
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=naveed504&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Naveed's GitHub Stats" />
 </a>
 
-
-[](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=PHP&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=Laravel&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=CodeIgniter&logoColor=white&color=4AB197)
-[](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Vue Js&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=Javascript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=Ajax&logoColor=white&color=4AB197)
-[](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Jquery&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=Bootstrap&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=CSS&logoColor=white&color=4AB197)
-[](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=MySql&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-
--->
 
 
 
