@@ -40,6 +40,15 @@ Here are some ideas to get you started:
 </a>
 
 <br>
+<a href="https://github.com/naveed504/React-Laravel-Crud-App">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=naveed504&repo=React-Laravel-Crud-App&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<br>
+<a href="https://github.com/naveed504/laravel-Ecommerce">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=naveed504&repo=laravel-Ecommerce&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
 <br>
 
 
