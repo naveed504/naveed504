@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### HI I'M <!-----> # M Naveed Akram :ribbon:
+#### HI I'M M Naveed Akram :ribbon:
 
 #### Building quality websites and applications
 #### 🔭 I’m currently working on Laravel || CodeIgniter || Vue Js || Javascript || Ajax & Jquery || BootStrap & CSS
 #### 📫 How to reach me:
 
 ![](https://komarev.com/ghpvc/?username=naveed504&color=green&style=flat-square&label=PROFILE+VIEWS)
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)(https://www.linkedin.com/in/mnaveed505/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
+
 
 #### Pinned Repositories 
 <!----->
