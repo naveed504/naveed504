@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 </a>
 
 ####  📫 Skills
-- <hr>
+<!-- <hr> -->
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-CodeIgniter-informational?style=flat&logo=CodeIgniter&logoColor=white&color=4AB197)
