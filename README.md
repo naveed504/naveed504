@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=PHP&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=Laravel&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=CodeIgniter&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Vue Js&logoColor=white&color=4AB197)
+
 ![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=Javascript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=Ajax&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Jquery&logoColor=white&color=4AB197)
