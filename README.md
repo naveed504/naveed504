@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mnaveed505/)
 
 Hi there !
-I'm M Naveed senior full-stack software engineer, creative coder and self-proclaimed designer who specializes in front-end and back-end development
+I'm M Naveed senior full-stack software developer, creative coder and self-proclaimed designer who specializes in front-end and back-end development
 
 
 #### Pinned Repositories 
